@@ -4,8 +4,26 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text style={styles.title}>CV Sederhana</Text>
+
+      <Text style={styles.label}>Nama Lengkap</Text>
+      <Text>Faiz Muzaki Irsyad</Text>
+
+      <Text style={styles.label}>NIM</Text>
+      <Text>2488010047</Text>
+
+      <Text style={styles.label}>Asal Sekolah</Text>
+      <Text>SMA Negeri 2 Tangerang</Text>
+
+      <Text style={styles.label}>Cita-cita</Text>
+      <Text>Ingin lulus kuliah tepat waktu</Text>
+
+      <Text style={styles.label}>Rencana Mencapai Cita-cita</Text>
+      <Text>1. Rajin masuk kuliah dan mengerjakan tugas</Text>
+      <Text>2. Belajar dengan teratur sebelum ujian</Text>
+      <Text>3. Aktif bertanya kepada dosen dan teman</Text>
+      <Text>4. Menyelesaikan skripsi dengan baik</Text>
+
       <StatusBar style="auto" />
     </View>
   );

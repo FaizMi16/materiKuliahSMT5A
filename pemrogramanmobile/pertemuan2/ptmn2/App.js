@@ -21,8 +21,7 @@ export default function App() {
       <Text style={styles.label}>Rencana Mencapai Cita-cita</Text>
       <Text>1. Rajin masuk kuliah dan mengerjakan tugas</Text>
       <Text>2. Belajar dengan teratur sebelum ujian</Text>
-      <Text>3. Aktif bertanya kepada dosen dan teman</Text>
-      <Text>4. Menyelesaikan skripsi dengan baik</Text>
+      <Text>3. Menyelesaikan skripsi dengan baik</Text>
 
       <StatusBar style="auto" />
     </View>

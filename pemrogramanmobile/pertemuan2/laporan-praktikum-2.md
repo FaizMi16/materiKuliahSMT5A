@@ -1,12 +1,13 @@
-Praktikum Menyiapkan dan Memulai Pemrograman Mobile (React Native)
-Tujuan Pembelajaran
+# Praktikum Menyiapkan dan Memulai Pemrograman Mobile (React Native)
 
-Mahasisnpx expo start --webwa mampu:
+## Tujuan Pembelajaran
+
+## Mahasisnpx expo start --webwa mampu:
 1. Menyiapkan dan Memulai Pemrograman Mobile (React Native)
 2. Membuat Aplikasi Mobile (React Native)
 3. Membuat CV sederhana dengan React Native
 
-Materi Praktikum
+## Materi Praktikum
 1. Menyiapkan dan Memulai Pemrograman Mobile (React Native)
  - Install Interpreter Node.JS
  - download dan install node.js di alamat https://nodejs.org/en/download/

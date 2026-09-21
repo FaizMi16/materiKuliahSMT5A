@@ -47,4 +47,4 @@ Materi Praktikum
  - Asal Sekolah
  - Cita-cita
  - Rencana mencapai cita-cita
-![alt text](CV_FaizMuzaki-1.png)
+![alt text](CV_FaizMuzaki-2.png)

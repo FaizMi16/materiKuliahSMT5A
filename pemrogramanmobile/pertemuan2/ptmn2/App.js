@@ -13,7 +13,7 @@ export default function App() {
       <Text>2488010047</Text>
 
       <Text style={styles.label}>Asal Sekolah</Text>
-      <Text>SMA Negeri 2 Tangerang</Text>
+      <Text>UINSSC</Text>
 
       <Text style={styles.label}>Cita-cita</Text>
       <Text>Ingin lulus kuliah tepat waktu</Text>

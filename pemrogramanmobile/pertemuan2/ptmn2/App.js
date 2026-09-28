@@ -56,7 +56,7 @@ const SECTIONS = [
     data: [
       {
         id: 'e1',
-        role: 'Aplikasi Perpustakaan (Kerja Kelompok)',
+        role: 'Aplikasi Perpustakaan (Kerja Mandiri)',
         company: 'Proyek Mata Kuliah Pemrograman Berorientasi Objek',
         period: '2025',
         desc: 'Membangun aplikasi mobile perpustakaan berbasis React Native secara berkelompok. Fitur: katalog buku, peminjaman, pengembalian, dan riwayat transaksi anggota.',

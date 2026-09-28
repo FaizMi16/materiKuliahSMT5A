@@ -52,29 +52,28 @@ const SKILLS = [
 
 const SECTIONS = [
   {
-    title: '💼 Pengalaman Kerja',
+    title: '💼 Pengalaman Kerja & Proyek',
     data: [
       {
         id: 'e1',
-        role: 'Senior Mobile Developer',
-        company: 'PT. TechVision Indonesia',
-        period: '2029 - Sekarang',
-        desc: 'Memimpin tim 5 developer dalam pengembangan aplikasi e-commerce mobile.',
+        role: 'Aplikasi Perpustakaan (Kerja Kelompok)',
+        company: 'Proyek Mata Kuliah Pemrograman Berorientasi Objek',
+        period: '2025',
+        desc: 'Membangun aplikasi mobile perpustakaan berbasis React Native secara berkelompok. Fitur: katalog buku, peminjaman, pengembalian, dan riwayat transaksi anggota.',
       },
       {
         id: 'e2',
-        role: 'Mobile Developer',
-        company: 'Startup Fintech - PayEasy',
-        period: '2020 - 2022',
-        desc: 'Mengembangkan fitur pembayaran digital menggunakan React Native & Redux.',
+        role: 'Kenyang.in — Web Pemesanan Makanan (Kerja Mandiri)',
+        company: 'Proyek Mata Kuliah Pemrograman Web',
+        period: '2026',
+        desc: 'Membangun website pemesanan makanan "Kenyang.in" secara mandiri. Fitur: daftar menu, keranjang pesanan, checkout, dan simulasi pembayaran.',
       },
-      // ✅ TUGAS WAJIB #3: Pengalaman kerja/organisasi baru
       {
         id: 'e3',
-        role: 'Ketua Divisi Teknologi',
-        company: 'Himpunan Mahasiswa Informatika (HMIF)',
-        period: '2023 - 2024',
-        desc: 'Memimpin 15 anggota divisi dalam pengembangan sistem informasi organisasi berbasis web dan mobile.',
+        role: 'Web Pelaporan Banjir (Kerja Mandiri)',
+        company: 'Proyek Mata Kuliah Pemrograman Web',
+        period: '2026',
+        desc: 'Membangun website pelaporan banjir secara mandiri. Fitur: form pelaporan lokasi banjir, peta sebaran, upload foto bukti, dan status verifikasi laporan.',
       },
     ],
   },
@@ -85,25 +84,23 @@ const SECTIONS = [
         id: 'd1',
         role: 'S1 Informatika',
         company: 'Universitas Islam Negeri Siber Syekh Nurjati Cirebon',
-        period: '2024 - 2029',
-        desc: 'IPK 3.72 / 4.00 • Skripsi: Implementasi ML pada Aplikasi Mobile.',
+        period: '2024 - 2028',
+        desc: 'IPK 3.63 / 4.00',
       },
       // ✅ TUGAS WAJIB #3: Riwayat pendidikan baru
       {
         id: 'd2',
-        role: 'SMK RPL (Rekayasa Perangkat Lunak)',
-        company: 'SMK Negeri 1 Cirebon',
+        role: 'SMA Negeri 2 Tangerang (IPS)',
+        company: 'SMA Negeri 2 Tangerang',
         period: '2021 - 2024',
-        desc: 'Lulus dengan predikat Cumlaude • Juara 2 LKS Provinsi bidang Web Design.',
+        desc: 'Lulus dengan lancar',
       },
     ],
   },
 ];
 
 const SOCIAL = [
-  { id: 's1', label: 'GitHub',    icon: '🐙', url: 'github.com/fulan' },
-  { id: 's2', label: 'LinkedIn',  icon: '💼', url: 'linkedin.com/in/fulan' },
-  { id: 's3', label: 'Portfolio', icon: '🌐', url: 'fulan.dev' },
+  { id: 's1', label: 'GitHub',    icon: '🐙', url: 'https://github.com/FaizMi16' }
 ];
 
 // ============================================

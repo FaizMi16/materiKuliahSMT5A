@@ -75,3 +75,4 @@ Setelah menyelesaikan praktikum ini, mahasiswa mampu:
 ![alt text](Hasil_pertemuan3_keahlian.png)
 ![alt text](Hasil_pertemuan3_kontak.png)
 ![alt text](Hasil_pertemuan3_riwayat.png)
+![alt text](video-1.gif)

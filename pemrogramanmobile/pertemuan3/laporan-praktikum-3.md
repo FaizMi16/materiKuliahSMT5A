@@ -68,21 +68,10 @@ Setelah menyelesaikan praktikum ini, mahasiswa mampu:
 
 ### Langkah 12: Verifikasi & Pengujian ###
 ![alt text](image-25.png)
+![alt text](video.gif)
 
 ### Hasil Akhir ###
 ![alt text](Hasil_pertemuan3.png)
 ![alt text](Hasil_pertemuan3_keahlian.png)
 ![alt text](Hasil_pertemuan3_kontak.png)
 ![alt text](Hasil_pertemuan3_riwayat.png)
-
-<!DOCTYPE html>
-<html>
-<body>
-  <video width="600" controls>
-    <source src="video.mp4" type="video/mp4">
-  </video>
-  <video width="600" controls>
-    <source src="video-1.mp4" type="video/mp4">
-  </video>
-</body>
-</html>

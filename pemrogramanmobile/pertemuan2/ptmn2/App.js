@@ -59,14 +59,14 @@ const SECTIONS = [
         role: 'Aplikasi Perpustakaan (Kerja Mandiri)',
         company: 'Proyek Mata Kuliah Pemrograman Berorientasi Objek',
         period: '2025',
-        desc: 'Membangun aplikasi mobile perpustakaan berbasis React Native secara berkelompok. Fitur: katalog buku, peminjaman, pengembalian, dan riwayat transaksi anggota.',
+        desc: 'Membangun aplikasi mobile perpustakaan berbasis React Native secara mandiri. Fitur: katalog buku, peminjaman, pengembalian, dan riwayat transaksi anggota.',
       },
       {
         id: 'e2',
         role: 'Kenyang.in — Web Pemesanan Makanan (Kerja Kelompok)',
         company: 'Proyek Mata Kuliah Pemrograman Web',
         period: '2026',
-        desc: 'Membangun website pemesanan makanan "Kenyang.in" secara mandiri. Fitur: daftar menu, keranjang pesanan, checkout, dan simulasi pembayaran.',
+        desc: 'Membangun website pemesanan makanan "Kenyang.in" secara berkelompok. Fitur: daftar menu, keranjang pesanan, checkout, dan simulasi pembayaran.',
       },
       {
         id: 'e3',

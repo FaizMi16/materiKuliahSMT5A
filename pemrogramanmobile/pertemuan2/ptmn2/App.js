@@ -63,7 +63,7 @@ const SECTIONS = [
       },
       {
         id: 'e2',
-        role: 'Kenyang.in — Web Pemesanan Makanan (Kerja Mandiri)',
+        role: 'Kenyang.in — Web Pemesanan Makanan (Kerja Kelompok)',
         company: 'Proyek Mata Kuliah Pemrograman Web',
         period: '2026',
         desc: 'Membangun website pemesanan makanan "Kenyang.in" secara mandiri. Fitur: daftar menu, keranjang pesanan, checkout, dan simulasi pembayaran.',
